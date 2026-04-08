@@ -36,6 +36,7 @@
 ### 🛠️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
