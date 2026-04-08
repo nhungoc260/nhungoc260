@@ -29,5 +29,6 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socketdotio)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat&logo=githubactions) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
