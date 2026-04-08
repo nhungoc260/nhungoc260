@@ -4,7 +4,7 @@
 - 💻 I’m currently learning: FullStack Development & DevOps
 - ⚙️ Focus on: Backend Systems, Real-time Applications
 - 🎯 Goal: Become a FullStack & DevOps Engineer
-- 📫 How to reach me: nguyentranhngoc260@gmail.com
+- 📫 How to reach me: nguyentrannhungoc260@gmail.com
 
 ---
 
