@@ -37,6 +37,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/-Cisco-black?style=flat-square&logo=cisco)
+![VMware](https://img.shields.io/badge/-VMware-black?style=flat-square&logo=vmware)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
