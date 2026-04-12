@@ -68,20 +68,22 @@
 ---
 
 ## 📂 My Projects
-<div align="center">
-  <a href="https://github.com/nhungoc260/popcorn-cinema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema&theme=dracula"/>
-  </a>
-  <a href="https://github.com/nhungoc260/QuanLyThuCung">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=dracula"/>
-  </a>
-  <a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=dracula"/>
-  </a>
-  <a href="https://github.com/nhungoc260/popcorn-cinema-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=dracula"/>
-  </a>
-</div>
+
+<a href="https://github.com/nhungoc260/popcorn-cinema-demo">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=gruvbox"/>
+</a>
+<a href="https://github.com/nhungoc260/popcorn-cinema">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema&theme=dracula"/>
+</a>
+<a href="https://github.com/nhungoc260/QuanLyThuCung">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=radical"/>
+</a>
+<a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko"/>
+</a>
+<a href="https://github.com/nhungoc260/Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=Project&theme=onedark"/>
+</a>
 
 ---
 
