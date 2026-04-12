@@ -67,12 +67,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 My Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhungoc260&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhungoc260&layout=compact&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=nhungoc260&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nhungoc260&theme=dracula&no-frame=false&margin-w=8" height="150"/>
+  <a href="https://github.com/nhungoc260/popcorn-cinema">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema&theme=dracula"/>
+  </a>
+  <a href="https://github.com/nhungoc260/QuanLyThuCung">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=dracula"/>
+  </a>
+  <a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=dracula"/>
+  </a>
+  <a href="https://github.com/nhungoc260/popcorn-cinema-demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=dracula"/>
+  </a>
 </div>
 
 ---
