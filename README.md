@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Như Ngọc</h1>
-
 <p align="left">
 🎓 IT Student (HUTECH) <br>
 💻 Learning: FullStack Development & DevOps <br>
@@ -71,12 +70,14 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhungoc260&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhungoc260&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=nhungoc260&theme=dracula" height="150"/>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph-dark.svg"/>
-</p>
+## 👾 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph.svg">
+</picture>
