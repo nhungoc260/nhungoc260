@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Như Ngọc</h1>
+<div align="center">
+  <img height="200" src="https://i.gifer.com/6mz.gif"  />
+</div>
+<h1 align="center"> Hi, I'm Như Ngọc</h1>
 <p align="left">
 🎓 IT Student (HUTECH) <br>
 💻 Learning: FullStack Development & DevOps <br>
