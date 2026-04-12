@@ -14,13 +14,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: nhungoc260
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
-          publish_branch: output
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git checkout -B output
+          git add .
+          git commit -m "generate pacman" || echo "no changes"
+          git push origin output --force
