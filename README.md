@@ -73,19 +73,19 @@
 ## 📂 My Projects
 
 <a href="https://github.com/nhungoc260/popcorn-cinema-demo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=gruvbox"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=gruvbox&cache_seconds=1"/>
 </a>
 <a href="https://github.com/nhungoc260/popcorn-cinema">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema&theme=dracula"/>
 </a>
 <a href="https://github.com/nhungoc260/QuanLyThuCung">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=radical&cache_seconds=1"/>
 </a>
 <a href="https://github.com/nhungoc260/Project">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=Project&theme=onedark"/>
 </a>
 <a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko&cache_seconds=1"/>
 </a>
 
 ---
