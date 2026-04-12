@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Như Ngọc</h1>
 
-<p align="center">
+<p align="left">
 🎓 IT Student (HUTECH) <br>
 💻 Learning: FullStack Development & DevOps <br>
 🎯 Goal: Become a FullStack & DevOps Engineer <br>
