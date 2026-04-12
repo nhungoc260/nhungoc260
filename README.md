@@ -78,5 +78,5 @@
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/nhungoc260/nhungoc260/output/pacman-contribution-graph-dark.svg"/>
 </p>
