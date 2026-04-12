@@ -70,7 +70,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nhungoc260&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhungoc260&layout=compact&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=nhungoc260&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nhungoc260&theme=dracula&no-frame=false&margin-w=8" height="150"/>
 </div>
 
 ---
