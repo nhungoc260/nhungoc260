@@ -78,11 +78,11 @@
 <a href="https://github.com/nhungoc260/QuanLyThuCung">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=QuanLyThuCung&theme=radical"/>
 </a>
-<a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko"/>
-</a>
 <a href="https://github.com/nhungoc260/Project">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=Project&theme=onedark"/>
+</a>
+<a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko"/>
 </a>
 
 ---
