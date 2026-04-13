@@ -76,7 +76,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema-demo&theme=gruvbox&cache_seconds=1"/>
 </a>
 <a href="https://github.com/nhungoc260/centralized-logging-system">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=centralized-logging-system&theme=tokyonight&cache_seconds=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhungoc260&repo=centralized-logging-system&theme=tokyonight&cache_seconds=1"/>
 </a>
 <a href="https://github.com/nhungoc260/popcorn-cinema">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=popcorn-cinema&theme=dracula"/>
