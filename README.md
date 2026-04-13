@@ -42,6 +42,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
+![BullMQ](https://img.shields.io/badge/-BullMQ-black?style=flat-square&logo=bull)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
