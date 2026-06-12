@@ -88,6 +88,12 @@
 <a href="https://github.com/nhungoc260/Project">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=Project&theme=onedark"/>
 </a>
+<a href="https://github.com/nhungoc260/ReasoningAI-ver1">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=ReasoningAI-ver1&theme=cobalt&cache_seconds=1"/>
+</a>
+<a href="https://github.com/nhungoc260/ReasoningAI_ver2">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=ReasoningAI_ver2&theme=tokyonight&cache_seconds=1"/>
+</a>
 <a href="https://github.com/nhungoc260/TinhGiaTriTrungBinh">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=TinhGiaTriTrungBinh&theme=merko&cache_seconds=1"/>
 </a>
