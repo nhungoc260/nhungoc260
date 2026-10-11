@@ -80,7 +80,7 @@
 <a href="https://github.com/nhungoc260/centralized-logging-system">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=centralized-logging-system&theme=dark&cache_seconds=1"/>
 </a>
-<a href="https://github.com/nhungoc260/lifely">
+<a href="https://github.com/nhungoc260/lifely_demo">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhungoc260&repo=lifely&theme=tokyonight&cache_seconds=1"/>
 </a>
 <a href="https://github.com/nhungoc260/popcorn-cinema">
